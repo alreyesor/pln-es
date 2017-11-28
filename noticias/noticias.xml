@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<noticias>
+   <noticiasCriminal>
+		<noticia id="1"> Sujeto <evento tipo="Asalto"> asalta </evento> joyería en <espacio>Parque Tezontle</espacio>; una persona con herida de bala el <tiempo>22/09/2013 23:52</tiempo> El delincuente consiguió huir del lugar; el establecimiento comercial no ha informado la cantidad del monto de lo robado. </noticia>
+     	<noticia id="2"> Asaltan huyen por un boquete y caen <tiempo>18/09/2013 02:12</tiempo> En <espacio>Sanborns de Miguel Ángel de Quevedo</espacio> al menos seis sujetos casi concretan el <evento tipo="Robo"> robo </evento> de celulares y otros objetos en la madrugada.  </noticia>
+    	<noticia id="3"> Pasajero <evento tipo="Homicidio">mata </evento>a un asaltante en <espacio>la carretera México-Pachuca</espacio> <tiempo>30/08/2013 21:55</tiempo> El pasajero que disparó contra el ladrón y tres cómplices del asaltante se dieron a la fuga cerca de la caseta de Los Héroes de Tecámac. </noticia>
+
+   </noticiasCriminal>
+   <noticiasNoCriminal>
+   		<noticia id="1185"> Enrique Dussel visita a estudiante de la UACM preso en Reclusorio Norte 21/05/2013 20:34 El rector interino de la casa de estudios señaló que preguntó al joven "cómo se sentía y cómo asimilaba su experiencia tras vivir una injusticia". </noticia>
+		<noticia id="1185">Detienen a mujer extranjera con arma de fuego y droga en Polanco 25/04/2013 10:52 Una ciudadana checa fue detenida luego de una denuncia de un vecino de la colonia  por presuntamente vender droga. </noticia>
+		<noticia id="1186">Modernización de la Central de Abasto en marcha 04/04/2013 23:08 Buscan reactivar la economía brindar mayor seguridad interna mejorar la limpieza y rediseñar las vialidades.</noticia>
+		<noticia id="1187">Vigilarán el transporte 350 policías de la SSP-DF 05/02/2013 06:48 El propósito de este nuevo agrupamiento de acuerdo con la SSP-DF es inhibir la comisión de delitos que se dan en el transporte público.</noticia>
+		<noticia id="1188">Ejército patrulla de nuevo calles de Ecatepec 22/01/2013 19:08 Se reactivó la base de operaciones mixtas que había en el municipio en la que participan elementos del Ejército Secretaría de Seguridad Ciudadana y de la Policía Municipal.</noticia>
+   </noticiasNoCriminal>
+</noticias>
+
